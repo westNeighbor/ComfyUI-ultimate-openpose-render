@@ -24,6 +24,8 @@ If you like the project, please give me a star! ⭐
     ```bash
     E:/ComfyUI_windows_portable/python_embeded/python.exe -m pip install -r requirements.txt
     ```
+- Restart ComfyUI
+
 ## Usage
 - Insert node by `Right Click -> ultimate-openpose -> Openpose Render Node`
 

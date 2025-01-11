@@ -28,7 +28,7 @@ If you like the project, please give me a star! ⭐
 - Insert node by `Right Click -> ultimate-openpose -> Openpose Render Node`
 
 ## Features
-- Accept both pose keypoints and pose json format input. Be ware that the edit priority is **POSE\_KEYPOINT > POSE\_JSON** 
+- Accept both pose keypoints and pose json format input. Be ware that the render priority is **POSE\_KEYPOINT > POSE\_JSON** 
 
 - Can adjust output canvas size
 

@@ -27,6 +27,10 @@ def draw_pose_json(pose_json, resolution_x, show_body, show_face, show_hands, po
             faces = []
             hands = []
             for figure in figures:
+                body = []
+                face = []
+                lhand = []
+                rhand = []
                 if 'pose_keypoints_2d' in figure:
                     body = figure['pose_keypoints_2d']
                 if 'face_keypoints_2d' in figure:

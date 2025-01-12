@@ -1,7 +1,7 @@
 [project]
 name = "ultimate-openpose-render"
 description = "The ultimate openpose render node for ComfyUI with flexible input, output and adjustment."
-version = "1.0.0"
+version = "0.9.1"
 license = { file = "LICENSE"}
 
 [project.urls]

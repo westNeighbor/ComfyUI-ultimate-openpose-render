@@ -3,6 +3,7 @@ name = "ultimate-openpose-render"
 description = "The ultimate openpose render node for ComfyUI with flexible input, output and adjustment."
 version = "1.0.0"
 license = { file = "LICENSE"}
+dependencies = ["torch", "polygraphy", "numpy", "opencv-python", "matplotlib"]
 
 [project.urls]
 Repository = "https://github.com/westNeighbor/ComfyUI-openpose-render"

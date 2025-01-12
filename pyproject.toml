@@ -2,7 +2,7 @@
 name = "ultimate-openpose-render"
 description = "The ultimate openpose render node for ComfyUI with flexible input, output and adjustment."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE"}
 
 [project.urls]
 Repository = "https://github.com/westNeighbor/ComfyUI-openpose-render"

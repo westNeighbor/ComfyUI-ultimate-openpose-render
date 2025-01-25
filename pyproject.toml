@@ -1,7 +1,7 @@
 [project]
-name = "ultimate-openpose-render"
+name = "ComfyUI-ultimate-openpose-render"
 description = "The ultimate openpose render node for ComfyUI with flexible input, output and adjustment."
-version = "1.0.5"
+version = "1.1.0"
 license = { file = "LICENSE"}
 dependencies = ["torch", "polygraphy", "numpy", "opencv-python", "matplotlib"]
 
